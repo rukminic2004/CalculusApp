@@ -1,2 +1,22 @@
-# CalculusApp
-A calculator which solves calculus problems such as integrations and derivatives.
+# Derivative & Integral Calculator
+
+A simple and clean Python GUI app to calculate **derivatives** and **integrals** of expressions like `x^2 + 2x + 1`, `sin(x)`, etc.
+
+## Features
+
+- Accepts user input with `x` as variable
+- Supports `^` for powers (auto converted to `**`)
+- Calculates:
+  - ✅ Derivative
+  - ✅ Indefinite Integral
+- GUI using `tkinter`
+- Math engine: `sympy`
+
+## 🖼️ Screenshot
+
+![Screenshot](screenshot.png)
+
+## 📦 Requirements
+
+```bash
+pip install sympy
