@@ -14,7 +14,8 @@ A simple and clean Python GUI app to calculate **derivatives** and **integrals**
 
 ## 🖼️ Screenshot
 
-![Screenshot](screenshot.png)
+![Integral](Integral.png)
+![Derivative](Derivative.png)
 
 ## 📦 Requirements
 
